@@ -1,7 +1,45 @@
 # PT ABADI BUKIT INDAH
 
-<img width="1922" height="857" alt="Image" src="https://github.com/user-attachments/assets/9273b4a8-a1a4-4fad-b17e-cc850e845ae1" />
+NAMA PEMILIK : ARIEF ADJI WICAKSANA
 
-<img width="1922" height="992" alt="Image" src="https://github.com/user-attachments/assets/00d383ef-212a-48d1-b2de-1a30b9843443" />
+TAMPILAN LOGIN
+<img width="808" height="604" alt="image" src="https://github.com/user-attachments/assets/81d2bb1f-4257-4587-8a35-96399fcf1e10" />
 
-<img width="1922" height="1019" alt="Image" src="https://github.com/user-attachments/assets/400485bb-d9ac-4abe-be3e-b9b73e7555e5" />ss
+TAMPILAN REGISTER
+<img width="770" height="730" alt="image" src="https://github.com/user-attachments/assets/c095a3f6-67c8-4aee-8fc3-d6a682c45d8d" />
+
+TAMPILAN WEB "ADMIN"
+<img width="2561" height="1354" alt="image" src="https://github.com/user-attachments/assets/a665b365-4598-4c53-80e4-ff207462793a" />
+
+TAMPILAN WEB "USER/PENGGUNA"
+<img width="2563" height="1318" alt="image" src="https://github.com/user-attachments/assets/874ac06e-cb5a-4f66-935d-0f52d4f62f35" />
+
+# Profile Resume Perusahaan
+
+PT Abadi Bukit Indah adalah perusahaan manufaktur terkemuka yang bergerak di bidang industri Air Minum Dalam Kemasan (AMDK). Didirikan dengan komitmen untuk menghadirkan kebaikan alam ke masyarakat, kami memproses air mineral alami langsung dari sumber mata air pegunungan terpilih yang terjaga kelestariannya.
+
+Dengan mengintegrasikan teknologi filtrasi modern dan standar higienis yang ketat (HACCP & SNI), PT Abadi Bukit Indah memastikan setiap tetes air yang diproduksi tetap mempertahankan kandungan mineral alami yang baik untuk kesehatan tubuh secara berkelanjutan (Abadi).
+
+# VISI
+
+"Menjadi produsen air mineral pilihan utama keluarga Indonesia yang dikenal atas kemurnian produk, inovasi ramah lingkungan, dan komitmen abadi dalam menjaga kesehatan bangsa serta kelestarian alam."
+
+# MISI
+
+1. Menyediakan air mineral dengan standar mutu tertinggi, higienis, dan kaya akan mineral alami demi mendukung gaya hidup sehat masyarakat.
+
+2. Menerapkan praktik bisnis hijau (green business) mulai dari perlindungan sumber mata air hingga penggunaan kemasan yang bertanggung jawab dan ramah lingkungan.
+
+3. Membangun jaringan distribusi yang kuat dan efisien agar kebaikan air mineral PT Abadi Bukit Indah dapat dinikmati oleh seluruh lapisan masyarakat hingga pelosok.
+
+# FILOSOFI LOGO PERUSAHAAN
+
+Logo PT Abadi Bukit Indah mengusung konsep "Harmony with Nature" (Keselarasan dengan Alam). Bentuknya yang melingkar memberikan kesan dinamis, profesional, dan kesatuan yang utuh. Berikut adalah rincian komponen di dalamnya:
+
+1.Siluet Tiga Gunung (Hijau): Mempresentasikan sumber mata air perusahaan yang berasal dari daerah perbukitan dan pegunungan yang asri, tinggi, dan tidak tercemar. Warna hijau melambangkan kesegaran, pertumbuhan, dan kehidupan alami yang murni.
+
+2.Setengah Lingkaran Emas/Matahari (Kuning/Emas): Melambangkan energi, optimisme, kemurnian, dan kualitas premium. Pancaran ini menandakan komitmen perusahaan untuk menjadi sumber energi positif dan kesehatan yang abadi bagi konsumen.
+
+3.Aksen Tangan/Daun Menopang di Bagian Bawah: Menggambarkan komitmen Corporate Social Responsibility (CSR) perusahaan dalam menjaga ekosistem sumber air, sekaligus bentuk kepedulian (care) dalam melayani konsumen dengan sepenuh hati.
+
+4.Bingkai Lingkaran Biru Tua: Warna biru tua melambangkan profesionalisme, kepercayaan (trust), integritas, serta elemen air itu sendiri yang bersifat menenangkan dan esensial bagi kehidupan.
