@@ -6,18 +6,6 @@ NIM   : 352310919
 
 ----
 
-TAMPILAN LOGIN
-<img width="808" height="604" alt="image" src="https://github.com/user-attachments/assets/81d2bb1f-4257-4587-8a35-96399fcf1e10" />
-
-TAMPILAN REGISTER
-<img width="770" height="730" alt="image" src="https://github.com/user-attachments/assets/c095a3f6-67c8-4aee-8fc3-d6a682c45d8d" />
-
-TAMPILAN WEB "ADMIN"
-<img width="2557" height="1363" alt="image" src="https://github.com/user-attachments/assets/c7010a29-5dc6-40d7-af4c-261d2d7f6c2a" />
-
-TAMPILAN WEB "USER/PENGGUNA"
-<img width="2563" height="1345" alt="image" src="https://github.com/user-attachments/assets/cf0a5ed6-92b4-43c7-9ae4-9efc5549ca77" />
-
 # Profile Resume Perusahaan
 
 PT Abadi Bukit Indah adalah perusahaan manufaktur _Fast Moving_ _Consumer Goods_ (FMCG) berskala nasional yang bergerak secara spesifik di sektor Minuman Dalam Kemasan (MDK) atau _Ready-to-Drink_ (RTD). Memiliki fasilitas produksi berteknologi tinggi, perusahaan ini mengadopsi sistem otomasi industri presisi untuk memastikan setiap proses mulai dari purifikasi bahan baku, pencampuran formulasi, hingga pengemasan aseptik (_aseptic packaging_) berjalan secara higienis, efisien, dan terstandardisasi. PT Abadi Bukit Indah dikembangkan melalui  riset pasar yang sistematis, mencakup lini air mineral pegunungan, teh dan kopi siap minum, sari buah murni, hingga minuman fungsional bernutrisi. Perusahaan ini berkomitmen untuk menghadirkan produk yang relevan dengan kebutuhan hidrasi harian serta gaya hidup sehat masyarakat modern.
@@ -55,3 +43,17 @@ PT Abadi Bukit Indah adalah perusahaan manufaktur _Fast Moving_ _Consumer Goods_
 2. Pancaran Sinar Matahari (Garis Emas Melingkar): Berada tepat di belakang gunung, pancaran sinar ini merupakan perwujudan dari kata "Abadi". Matahari melambangkan sumber energi, vitalitas, dan pembaruan yang terus-menerus. Elemen ini merepresentasikan komitmen perusahaan terhadap inovasi produk yang tiada henti, sekaligus mencerminkan fungsi produk minuman seperti kopi, teh, dan minuman energi sebagai penggerak gaya hidup aktif masyarakat modern.
    
 3. Simbol Daun di Bawah: Daun yang menyatu dengan garis batas bawah berfungsi sebagai fondasi visual. Elemen ini secara kuat mengomunikasikan misi tanggung jawab lingkungan (_eco-friendly operations_) dan keberlanjutan. Daun ini juga menjadi penanda bahwa formulasi produk yang dihasilkan berorientasi pada kesehatan, nutrisi, dan manfaat alami.
+
+---
+
+TAMPILAN LOGIN
+<img width="808" height="604" alt="image" src="https://github.com/user-attachments/assets/81d2bb1f-4257-4587-8a35-96399fcf1e10" />
+
+TAMPILAN REGISTER
+<img width="770" height="730" alt="image" src="https://github.com/user-attachments/assets/c095a3f6-67c8-4aee-8fc3-d6a682c45d8d" />
+
+TAMPILAN WEB "ADMIN"
+<img width="2557" height="1363" alt="image" src="https://github.com/user-attachments/assets/c7010a29-5dc6-40d7-af4c-261d2d7f6c2a" />
+
+TAMPILAN WEB "USER/PENGGUNA"
+<img width="2563" height="1345" alt="image" src="https://github.com/user-attachments/assets/cf0a5ed6-92b4-43c7-9ae4-9efc5549ca77" />
