@@ -13,10 +13,10 @@ TAMPILAN REGISTER
 <img width="770" height="730" alt="image" src="https://github.com/user-attachments/assets/c095a3f6-67c8-4aee-8fc3-d6a682c45d8d" />
 
 TAMPILAN WEB "ADMIN"
-<img width="2561" height="1354" alt="image" src="https://github.com/user-attachments/assets/a665b365-4598-4c53-80e4-ff207462793a" />
+<img width="2557" height="1363" alt="image" src="https://github.com/user-attachments/assets/c7010a29-5dc6-40d7-af4c-261d2d7f6c2a" />
 
 TAMPILAN WEB "USER/PENGGUNA"
-<img width="2563" height="1318" alt="image" src="https://github.com/user-attachments/assets/874ac06e-cb5a-4f66-935d-0f52d4f62f35" />
+<img width="2563" height="1345" alt="image" src="https://github.com/user-attachments/assets/cf0a5ed6-92b4-43c7-9ae4-9efc5549ca77" />
 
 # Profile Resume Perusahaan
 
