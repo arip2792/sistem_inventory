@@ -44,7 +44,7 @@ PT Abadi Bukit Indah adalah perusahaan manufaktur _Fast Moving_ _Consumer Goods_
    
 # FILOSOFI LOGO PERUSAHAAN
 
-                                        <img width="518" height="482" alt="gambar2" src="https://github.com/user-attachments/assets/cd87e8fa-94f6-479c-a6b7-0a9ac08bd92e" />
+<img width="518" height="482" alt="gambar2" src="https://github.com/user-attachments/assets/c9b8ceeb-09da-48be-95e9-45812bff785e" />
 
 1. Siluet Pegunungan (Bukit): Elemen sentral berupa pegunungan secara harfiah mewakili nama "Bukit Indah". Dalam operasional, siluet ini melambangkan sumber kemurnian bahan baku seperti mata air pegunungan alami, daun teh pilihan, dan ekstrak buah murni. Puncak gunung yang menjulang merepresentasikan visi perusahaan untuk menjadi pemimpin pasar (_market leader_) di industri minuman FMCG nasional, serta menunjukkan stabilitas dan ketahanan bisnis.
 
