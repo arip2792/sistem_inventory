@@ -6,7 +6,7 @@ NIM   : 352310919
 
 ----
 
-# Profile Resume Perusahaan
+# Profil Perusahaan
 
 PT Abadi Bukit Indah adalah perusahaan manufaktur _Fast Moving_ _Consumer Goods_ (FMCG) berskala nasional yang bergerak secara spesifik di sektor Minuman Dalam Kemasan (MDK) atau _Ready-to-Drink_ (RTD). Memiliki fasilitas produksi berteknologi tinggi, perusahaan ini mengadopsi sistem otomasi industri presisi untuk memastikan setiap proses mulai dari purifikasi bahan baku, pencampuran formulasi, hingga pengemasan aseptik (_aseptic packaging_) berjalan secara higienis, efisien, dan terstandardisasi. PT Abadi Bukit Indah dikembangkan melalui  riset pasar yang sistematis, mencakup lini air mineral pegunungan, teh dan kopi siap minum, sari buah murni, hingga minuman fungsional bernutrisi. Perusahaan ini berkomitmen untuk menghadirkan produk yang relevan dengan kebutuhan hidrasi harian serta gaya hidup sehat masyarakat modern.
 
