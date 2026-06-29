@@ -16,20 +16,32 @@ TAMPILAN WEB "USER/PENGGUNA"
 
 # Profile Resume Perusahaan
 
-PT Abadi Bukit Indah adalah perusahaan manufaktur _Fast Moving_ Consumer Goods (FMCG) berskala nasional yang bergerak secara spesifik di sektor Minuman Dalam Kemasan (MDK) atau Ready-to-Drink (RTD). Memiliki fasilitas produksi berteknologi tinggi, perusahaan ini mengadopsi sistem otomasi industri presisi untuk memastikan setiap proses mulai dari purifikasi bahan baku, pencampuran formulasi, hingga pengemasan aseptik (_aseptic packaging_) berjalan secara higienis, efisien, dan terstandardisasi. Portofolio PT Abadi Bukit Indah dikembangkan melalui  riset pasar yang sistematis, mencakup lini air mineral pegunungan, teh dan kopi siap minum, sari buah murni, hingga minuman fungsional bernutrisi. Perusahaan ini berkomitmen untuk menghadirkan produk yang relevan dengan kebutuhan hidrasi harian serta gaya hidup sehat masyarakat modern.
+PT Abadi Bukit Indah adalah perusahaan manufaktur _Fast Moving_ Consumer Goods (FMCG) berskala nasional yang bergerak secara spesifik di sektor Minuman Dalam Kemasan (MDK) atau Ready-to-Drink (RTD). Memiliki fasilitas produksi berteknologi tinggi, perusahaan ini mengadopsi sistem otomasi industri presisi untuk memastikan setiap proses mulai dari purifikasi bahan baku, pencampuran formulasi, hingga pengemasan aseptik (_aseptic packaging_) berjalan secara higienis, efisien, dan terstandardisasi. PT Abadi Bukit Indah dikembangkan melalui  riset pasar yang sistematis, mencakup lini air mineral pegunungan, teh dan kopi siap minum, sari buah murni, hingga minuman fungsional bernutrisi. Perusahaan ini berkomitmen untuk menghadirkan produk yang relevan dengan kebutuhan hidrasi harian serta gaya hidup sehat masyarakat modern.
 
 # VISI
 
-"Menjadi produsen air mineral pilihan utama keluarga Indonesia yang dikenal atas kemurnian produk, inovasi ramah lingkungan, dan komitmen abadi dalam menjaga kesehatan bangsa serta kelestarian alam."
+"Menjadi korporasi pelopor dan pemimpin pasar dalam industri minuman dalam kemasan terintegrasi di tingkat nasional, yang diakui secara luas atas inovasi formulasi bernutrisi, standar kualitas premium, dan dedikasi terhadap keberlanjutan ekosistem lingkungan."
 
 # MISI
 
-1. Menyediakan air mineral dengan standar mutu tertinggi, higienis, dan kaya akan mineral alami demi mendukung gaya hidup sehat masyarakat.
+1. Menjalankan operasional pabrik yang sistematis, efisien, dan tersertifikasi standar keamanan pangan global (FSSC 22000, ISO 9001, serta Jaminan Halal) guna menjamin mutu produk secara konsisten.
 
-2. Menerapkan praktik bisnis hijau (green business) mulai dari perlindungan sumber mata air hingga penggunaan kemasan yang bertanggung jawab dan ramah lingkungan.
+2. Melakukan riset dan pengembangan (R&D) berbasis data (data-driven) untuk memproduksi varian minuman yang logis, bermanfaat secara kesehatan, dan memiliki daya saing tinggi.
 
-3. Membangun jaringan distribusi yang kuat dan efisien agar kebaikan air mineral PT Abadi Bukit Indah dapat dinikmati oleh seluruh lapisan masyarakat hingga pelosok.
+3. Mengembangkan infrastruktur logistik dan jaringan distribusi yang tangguh untuk memastikan kelancaran suplai produk dari gudang utama hingga ke titik ritel (end-consumer).
+   
+4. Mengimplementasikan praktik industri hijau dengan mengoptimalkan efisiensi air produksi, manajemen limbah terpadu, dan transisi menuju penggunaan material kemasan daur ulang (eco-friendly packaging)
 
+# TUJUAN PERUSAHAAN
+
+1. Memperoleh dan mempertahankan ekspansi pangsa pasar sebesar 15% pada sektor minuman RTD nasional dalam kurun waktu lima tahun ke depan.
+
+2. Menjaga rasio kecacatan produk (defect rate) pada batas toleransi minimal (mendekati 0%) pada setiap lini perakitan mesin melalui penerapan inspeksi Quality Control (QC) yang ketat dan presisi.
+
+3. Meningkatkan Return on Investment (ROI) dan laba bersih tahunan melalui efisiensi proses supply chain dan strategi pemasaran produk yang tepat sasaran.
+
+4. Menciptakan lingkungan kerja yang mendorong peningkatan kompetensi teknis sumber daya manusia, sekaligus memberikan dampak ekonomi positif bagi para pemegang saham, mitra pemasok, dan masyarakat di sekitar kawasan industri.
+   
 # FILOSOFI LOGO PERUSAHAAN
 
 Logo PT Abadi Bukit Indah mengusung konsep "Harmony with Nature" (Keselarasan dengan Alam). Bentuknya yang melingkar memberikan kesan dinamis, profesional, dan kesatuan yang utuh. Berikut adalah rincian komponen di dalamnya:
