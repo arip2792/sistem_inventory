@@ -16,7 +16,7 @@ PT Abadi Bukit Indah adalah perusahaan manufaktur _Fast Moving_ _Consumer Goods_
 
 # MISI
 
-1. Menjalankan operasional pabrik yang sistematis, efisien, dan tersertifikasi standar keamanan pangan global (FSSC 22000, ISO 9001, serta Jaminan Halal) guna menjamin mutu produk secara konsisten.
+1. Menjalankan operasional pabrik yang sistematis, efisien, dan tersertifikasi standar keamanan pangan global serta jaminan Halal guna menjamin mutu produk secara konsisten.
 
 2. Melakukan riset dan pengembangan (R&D) berbasis data (data-driven) untuk memproduksi varian minuman yang logis, bermanfaat secara kesehatan, dan memiliki daya saing tinggi.
 
