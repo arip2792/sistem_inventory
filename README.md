@@ -16,9 +16,7 @@ TAMPILAN WEB "USER/PENGGUNA"
 
 # Profile Resume Perusahaan
 
-PT Abadi Bukit Indah adalah perusahaan manufaktur terkemuka yang bergerak di bidang industri Air Minum Dalam Kemasan (AMDK). Didirikan dengan komitmen untuk menghadirkan kebaikan alam ke masyarakat, kami memproses air mineral alami langsung dari sumber mata air pegunungan terpilih yang terjaga kelestariannya.
-
-Dengan mengintegrasikan teknologi filtrasi modern dan standar higienis yang ketat (HACCP & SNI), PT Abadi Bukit Indah memastikan setiap tetes air yang diproduksi tetap mempertahankan kandungan mineral alami yang baik untuk kesehatan tubuh secara berkelanjutan (Abadi).
+PT Abadi Bukit Indah adalah perusahaan manufaktur _Fast Moving_ Consumer Goods (FMCG) berskala nasional yang bergerak secara spesifik di sektor Minuman Dalam Kemasan (MDK) atau Ready-to-Drink (RTD). Memiliki fasilitas produksi berteknologi tinggi, perusahaan ini mengadopsi sistem otomasi industri presisi untuk memastikan setiap proses mulai dari purifikasi bahan baku, pencampuran formulasi, hingga pengemasan aseptik (aseptic packaging)—berjalan secara higienis, efisien, dan terstandardisasi. Portofolio PT Abadi Bukit Indah dikembangkan melalui  riset pasar yang sistematis, mencakup lini air mineral pegunungan, teh dan kopi siap minum, sari buah murni, hingga minuman fungsional bernutrisi. Perusahaan ini berkomitmen untuk menghadirkan produk yang relevan dengan kebutuhan hidrasi harian serta gaya hidup sehat masyarakat modern.
 
 # VISI
 
