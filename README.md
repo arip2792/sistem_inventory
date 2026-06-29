@@ -44,12 +44,12 @@ PT Abadi Bukit Indah adalah perusahaan manufaktur _Fast Moving_ _Consumer Goods_
    
 # FILOSOFI LOGO PERUSAHAAN
 
+<img width="518" height="482" alt="gambar2" src="https://github.com/user-attachments/assets/a0398b55-e054-40f8-93bb-bb48bdcbf9c4" />
+
 Logo PT Abadi Bukit Indah mengusung konsep "Harmony with Nature" (Keselarasan dengan Alam). Bentuknya yang melingkar memberikan kesan dinamis, profesional, dan kesatuan yang utuh. Berikut adalah rincian komponen di dalamnya:
 
-1.Siluet Tiga Gunung (Hijau): Mempresentasikan sumber mata air perusahaan yang berasal dari daerah perbukitan dan pegunungan yang asri, tinggi, dan tidak tercemar. Warna hijau melambangkan kesegaran, pertumbuhan, dan kehidupan alami yang murni.
+1. Siluet Pegunungan (Bukit): Elemen sentral berupa pegunungan secara harfiah mewakili nama "Bukit Indah". Dalam operasional, siluet ini melambangkan sumber kemurnian bahan baku seperti mata air pegunungan alami, daun teh pilihan, dan ekstrak buah murni. Puncak gunung yang menjulang merepresentasikan visi perusahaan untuk menjadi pemimpin pasar (_market leader_) di industri minuman FMCG nasional, serta menunjukkan stabilitas dan ketahanan bisnis.
 
-2.Setengah Lingkaran Emas/Matahari (Kuning/Emas): Melambangkan energi, optimisme, kemurnian, dan kualitas premium. Pancaran ini menandakan komitmen perusahaan untuk menjadi sumber energi positif dan kesehatan yang abadi bagi konsumen.
-
-3.Aksen Tangan/Daun Menopang di Bagian Bawah: Menggambarkan komitmen Corporate Social Responsibility (CSR) perusahaan dalam menjaga ekosistem sumber air, sekaligus bentuk kepedulian (care) dalam melayani konsumen dengan sepenuh hati.
-
-4.Bingkai Lingkaran Biru Tua: Warna biru tua melambangkan profesionalisme, kepercayaan (trust), integritas, serta elemen air itu sendiri yang bersifat menenangkan dan esensial bagi kehidupan.
+2. Pancaran Sinar Matahari (Garis Emas Melingkar): Berada tepat di belakang gunung, pancaran sinar ini merupakan perwujudan dari kata "Abadi". Matahari melambangkan sumber energi, vitalitas, dan pembaruan yang terus-menerus. Elemen ini merepresentasikan komitmen perusahaan terhadap inovasi produk yang tiada henti, sekaligus mencerminkan fungsi produk minuman seperti kopi, teh, dan minuman energi sebagai penggerak gaya hidup aktif masyarakat modern.
+   
+3. Simbol Daun di Bawah: Daun yang menyatu dengan garis batas bawah berfungsi sebagai fondasi visual. Elemen ini secara kuat mengomunikasikan misi tanggung jawab lingkungan (_eco-friendly operations_) dan keberlanjutan. Daun ini juga menjadi penanda bahwa formulasi produk yang dihasilkan berorientasi pada kesehatan, nutrisi, dan manfaat alami.
